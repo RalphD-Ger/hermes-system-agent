@@ -27,5 +27,5 @@ C++ ONNX Runtime inference with CMakeLists:
 
 Cost report and Anthropic Console verification. You see that Cost report & Anthropic Console show exact same Token Count, confirming correct Token & Cost Calculation:
 
-![Cost Report](examples/deep-coding/screenshots/08_response_cpp_infer_3_costrepo.png)
+![Cost Report](examples/deep-coding/screenshots/08_response_cpp_infer_3_costreport.png)
 ![Anthropic Logs](examples/deep-coding/screenshots/09_anthropic_console_logs.png)
